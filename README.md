@@ -45,8 +45,9 @@ You will also see any lint errors in the console.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Credit goes to 
-- dbark@hey.com or https://twitter.com/barelydaniel
-- How he did it can be seen in this Youtube video:
+### Credit goes to
+- [ReactJS](https://reactjs.org/), [Three.js](https://threejs.org/), and [React Three Fiber](https://github.com/pmndrs/react-three-fiber) Teams.
+- Initial tutorial project credit to dbark@hey.com or https://twitter.com/barelydaniel
+- How Daniel did it can be seen in this Youtube video:
 [![Video preview](https://img.youtube.com/vi/qpOZup_3P_A/0.jpg)](https://www.youtube.com/watch?v=qpOZup_3P_A)
 - His Demo: https://minecraft-freecodecamp.vercel.app/
