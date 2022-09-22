@@ -16,6 +16,25 @@ You world is stored in your browsers local storage.
 
 ![Preview](preview.png 'Preview')
 
+### Progress
+- [✅] Boilerplate
+- [❌] Sky
+- [❌] Textures and images
+- [❌] Ground
+- [❌] Keyboard inputs
+- [❌] Player
+- [❌] First person view
+- [❌] Gravity
+- [❌] Movement
+- [❌] State management
+- [❌] Cubes
+- [❌] Adding cubes
+- [❌] Removing cubes
+- [❌] Cube type selector
+- [❌] Save world in localstorage
+- [❌] Hover state on cubes
+- [❌] Build a house
+
 ## Want to extend, develop modify?
 
 If you do so or just build a cool world. Please share it with me dbark@hey.com or https://twitter.com/barelydaniel
@@ -31,3 +50,4 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
