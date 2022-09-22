@@ -1,6 +1,6 @@
 # Welcome to Minecraft (React Three.js & fiber) 
 
-This project is a Minecraft Clone done in [ReactJS](https://reactjs.org/), [Three.js](https://threejs.org/), and [React Three Fiber](https://github.com/pmndrs/react-three-fiber).
+This project is a Minecraft Clone done in [ReactJS](https://reactjs.org/), [Three.js](https://threejs.org/), [React Three Fiber](https://github.com/pmndrs/react-three-fiber), and [React Three Fiber Canon](https://github.com/pmndrs/use-cannon).
 
 ## How to play?
 
@@ -16,7 +16,7 @@ This project is a Minecraft Clone done in [ReactJS](https://reactjs.org/), [Thre
 - [✅] Boilerplate
 - [✅] Sky
 - [✅] Textures and images
-- [❌] Ground
+- [✅] Ground
 - [❌] Keyboard inputs
 - [❌] Player
 - [❌] First person view
@@ -46,7 +46,7 @@ You will also see any lint errors in the console.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Credit goes to
-- [ReactJS](https://reactjs.org/), [Three.js](https://threejs.org/), and [React Three Fiber](https://github.com/pmndrs/react-three-fiber) Teams.
+- [ReactJS](https://reactjs.org/), [Three.js](https://threejs.org/), [React Three Fiber](https://github.com/pmndrs/react-three-fiber), and  and [React Three Fiber Canon](https://github.com/pmndrs/use-cannon) Teams.
 - Initial tutorial project credit to dbark@hey.com or https://twitter.com/barelydaniel
 - How Daniel did it can be seen in this Youtube video:
 [![Video preview](https://img.youtube.com/vi/qpOZup_3P_A/0.jpg)](https://www.youtube.com/watch?v=qpOZup_3P_A)
