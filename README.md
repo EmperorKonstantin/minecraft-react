@@ -14,8 +14,8 @@ This project is a Minecraft Clone done in [ReactJS](https://reactjs.org/), [Thre
 
 ### Progress
 - [✅] Boilerplate
-- [❌] Sky
-- [❌] Textures and images
+- [✅] Sky
+- [✅] Textures and images
 - [❌] Ground
 - [❌] Keyboard inputs
 - [❌] Player
