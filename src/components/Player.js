@@ -3,8 +3,12 @@ import { useSphere } from "@react-three/cannon";
 // import { meshBounds } from "@react-three/drei"; look into using meshbounds for collision detection
 import { useEffect, useRef } from "react";
 import { Vector3 } from "three";
+import { useKeyboard } from "../hooks/useKeyboard";
 
 export const Player = () => {
+    const actions = useKeyboard();
+    console.log('actions', Object.entries(actions).filter(([key, value]) => value));
+    
     const { camera } = useThree();
     const [ref, api] = useSphere(() => ({
         mass: 1,
